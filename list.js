@@ -17,6 +17,18 @@ document.getElementById("xsd").addEventListener("click", function() {
 document.getElementById("jl").addEventListener("click", function() {
   window.open(atob("aHR0cHM6Ly90ZmFqbi5oY2p3ai5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTIwODEmdG9wSWQ9MTY4MTQzMCZzZWxmUGxhbklkPTE1NTkwMTg"), '_blank');
 });
+document.getElementById("yx").addEventListener("click", function() {
+  window.open(atob("aHR0cHM6Ly9yZWcueXgwMTIzLmNjLyMvP3lxbT02NjY2NjY2Ng=="), '_blank');
+});
+document.getElementById("wd").addEventListener("click", function() {
+  window.open(atob("aHR0cHM6Ly9vbmtyY3kuZm5icHN3LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTAyMCZ0b3BJZD0zNzAzNjk3Mg=="), '_blank');
+});
+document.getElementById("t1").addEventListener("click", function() {
+  window.open(atob("aHR0cHM6Ly9sbmNxYy5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDUxJnRvcElkPTUyNzQxOQ0="), '_blank');
+});
+document.getElementById("yxn").innerHTML="YX娱乐";
+document.getElementById("wdn").innerHTML="问鼎娱乐";
+document.getElementById("t1n").innerHTML="TOP1体育";
 document.getElementById("yhn").innerHTML="壹号娱乐";
 document.getElementById("ffn").innerHTML="非凡娱乐";
 document.getElementById("cfn").innerHTML="超凡国际";
@@ -42,3 +54,4 @@ currentIndex = (currentIndex + 1) % texts.length;
 } else if (year === 2026 && month === 3 && date === 3) {
     alert("🎇祝您元宵节快乐！🎇");
 }
+
