@@ -37,21 +37,6 @@ document.getElementById("xsdn").innerHTML="新时代";
 document.getElementById("jln").innerHTML="君临国际";
 document.getElementById("2").innerHTML="🔥十年信誉平台推荐";
 document.getElementById("1").innerHTML="N66E.MY";
-const texts = ["祝您新年快乐！", "马到成功", "N66E.MY"];
-const today = new Date();
-const month = today.getMonth() + 1;
-const year = today.getFullYear();
-const date = today.getDate();
-let currentIndex = 0;
-
-if (year === 2026 && month === 2 && date >= 17 && date <= 23) {
-    alert("🎇祝您新年快乐！🎇"); 
-setInterval(() => {
-document.getElementById("1").innerHTML = texts[currentIndex];
-currentIndex = (currentIndex + 1) % texts.length;
-}, 2026);
-
-} else if (year === 2026 && month === 3 && date === 3) {
-    alert("🎇祝您元宵节快乐！🎇");
-}
-
+window.onload = function() {
+      alert("欢迎访问N66E！");
+    };
