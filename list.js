@@ -25,6 +25,10 @@ window["document"]['getElementById']("wd")['addEventListener']("click", function
 window["document"]['getElementById']("t1")['addEventListener']("click", function () {
     window['open'](atob("aHR0cHM6Ly9sbmNxYy5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDUxJnRvcElkPTUyNzQxOQ0="), '_blank')
 });
+window["document"]['getElementById']("hy")['addEventListener']("click", function () {
+    window['open'](atob("aHR0cHM6Ly9uY2djYS50cHJzbWkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDYyJnRvcElkPTEzNzMzJnNlbGZQbGFuSWQ9MTEzNw=="), '_blank')
+});
+window["document"]['getElementById']("hyn")['innerHTML'] = ("汇赢国际");
 window["document"]['getElementById']("yxn")['innerHTML'] = "YX娱乐";
 window["document"]['getElementById']("wdn")['innerHTML'] = "问鼎娱乐";
 window["document"]['getElementById']("t1n")['innerHTML'] = "TOP1体育";
