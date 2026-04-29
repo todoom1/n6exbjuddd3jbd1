@@ -44,7 +44,7 @@
 
 window["document"]['getElementById']("3")['innerHTML'] = ("2026美加墨世界杯<br>-查看赛事赛程-");
 window["document"]['getElementById']("2")['innerHTML'] = ("🔥十年信誉平台<br>⚽世界杯官方投注平台");
-window["document"]['getElementById']("1")['innerHTML'] = "N66E.MY";
+window["document"]['getElementById']("1")['innerHTML'] = "N77E.MY";
 
 function showPopupOnce(popupId = 'sw_loaded') {
   const key = `popup_${popupId}_shown`;
@@ -52,7 +52,7 @@ function showPopupOnce(popupId = 'sw_loaded') {
   if (localStorage.getItem(key)) {
     return; 
   }
-  alert('欢迎访问N66E！');
+  alert('欢迎访问N77E！');
   localStorage.setItem(key, Date.now().toString());
 }
 window.addEventListener('load', function() {
