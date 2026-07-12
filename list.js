@@ -6,7 +6,7 @@
 {img: './png/dtgj.jpg', name: '鼎天国际', xurl: 'aHR0cHM6Ly90ZmFqbi5oY2p3ai5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTEwNjMmcHQ9QzQxNzdFMDYtM0JGOS1CM0MwLUE0NkEtQkEyMDM0MzY0MzlC'},
 {img: './png/hygj.jpg', name: '汇赢国际', xurl: 'aHR0cHM6Ly9uY2djYS50cHJzbWkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDYyJnRvcElkPTEzNzMzJnNlbGZQbGFuSWQ9MTEzNw=='},
 {img: './png/jlgj.jpg', name: '君临国际', xurl: 'aHR0cHM6Ly90ZmFqbi5oY2p3ai5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTIwODEmdG9wSWQ9MTY4MTQzMCZzZWxmUGxhbklkPTE1NTkwMTg'},
-{img: './png/yx.jpg', name: 'YX娱乐', xurl: 'aHR0cHM6Ly9yZWcueXgwMTIzLmNjLyMvP3lxbT02NjY2NjY2Ng=='},
+{img: './png/mxgj.jpg', name: '梦想国际', xurl: 'aHR0cHM6Ly9tZ29rZ2QuamdxdmppLmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTA2MSZwdD1DNzI3RTE0Qi0xRjAzLUJDQjQtNTBBRS0xNEEwNDY1MDc3Nzc='},
 {img: './svg/wd.svg', name: '问鼎娱乐', xurl: 'aHR0cHM6Ly9vbmtyY3kuZm5icHN3LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTAyMCZ0b3BJZD0zNzAzNjk3Mg=='},
 {img: './png/xsd.jpg', name: '新时代', xurl: 'aHR0cHM6Ly9kZXJlYXIuZm5icHN3LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTA1OSZ0b3BJZD0xNTg5MzI2JnNlbGZQbGFuSWQ9MTI3NTAyNA'},
 {img: './png/stgj.jpg', name: '胜天国际', xurl: 'aHR0cHM6Ly9sZWp2YS50cHJzbWkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDU4JnRvcElkPTIwNzI5ODgmc2VsZlBsYW5JZD0xNjY1ODA3'},
